@@ -136,6 +136,15 @@ The project is still under development, and future updates may include cloud int
 
 ---
 
+## Contributing
+
+Contributions, suggestions, and bug reports are welcome.
+
+If you would like to improve the project, please open an issue or submit a pull request describing your proposed changes.
+
+
+---
+
 ## License
 
 This project is for **educational and demonstration purposes**.
