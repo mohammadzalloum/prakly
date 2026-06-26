@@ -128,6 +128,14 @@ To build a modern smart parking solution that:
 
 ---
 
+## Project Status
+
+This repository documents the current Parkly prototype, including the IoT hardware modules, mobile app features, user roles, and planned future improvements.
+
+The project is still under development, and future updates may include cloud integration, online booking, payment support, license plate recognition, and analytics.
+
+---
+
 ## License
 
 This project is for **educational and demonstration purposes**.
