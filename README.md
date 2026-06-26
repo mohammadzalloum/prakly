@@ -128,6 +128,12 @@ To build a modern smart parking solution that:
 
 ---
 
+## Collaboration Notes
+
+This project is open to collaborative improvements, including documentation updates, feature planning, hardware testing notes, and mobile app workflow refinements.
+
+---
+
 ## Project Status
 
 This repository documents the current Parkly prototype, including the IoT hardware modules, mobile app features, user roles, and planned future improvements.
