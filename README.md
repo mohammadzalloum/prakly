@@ -138,4 +138,4 @@ The project is still under development, and future updates may include cloud int
 
 ## License
 
-This project is for **educational and demonstration purposes**.
+This project is for **educational and demonstration purposes**
